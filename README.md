@@ -15,4 +15,6 @@ Linkedin:
 This project is to use Python to automatically update the Microsoft Word documents regularly.
 
 ## Project Details
-To check the tutorial article, please click please click [here]().
+To check the tutorial article, please click please click [here](https://pub.towardsai.net/use-python-to-update-word-report-9a4da6c74e1f?sk=8f6648eb9285e5c13d70678704c6347f).
+
+[![alt text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Q5R55WBwqSKr87CuV4QiuQ.jpeg)](https://pub.towardsai.net/use-python-to-update-word-report-9a4da6c74e1f?sk=8f6648eb9285e5c13d70678704c6347f)
